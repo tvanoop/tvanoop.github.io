@@ -5,8 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 <h3>Journals</h3>
-23. Anoop, T. V., Vladimir Bobkov, and Pavel Drábek,"[Reverse Faber-Krahn and Szegő-Weinberger type inequalities for annular domains under Robin-Neumann boundary conditions]
-(https://doi.org/10.1016/j.jde.2025.113354)", Journal of Differential Equations (2025), pp 40.   
+23. Anoop, T. V., Vladimir Bobkov, and Pavel Drábek,[Reverse Faber-Krahn and Szegő-Weinberger type inequalities for annular domains under Robin-Neumann boundary conditions](https://doi.org/10.1016/j.jde.2025.113354), Journal of Differential Equations (2025), pp 40.   
 
 
 
