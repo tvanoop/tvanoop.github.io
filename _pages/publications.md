@@ -20,12 +20,26 @@ author_profile: true
 11. <b>The compactness and the concentration compactness via p-capacity</b>, Anoop T. V. and Ujjal Das, <i>Annali di Matematica Pura ed Applicata (2021)</i>, 2715–2740. [Download Paper](https://doi.org/10.1007/s10231-021-01098-2).
 12. <b>A shape variation result via the geometry of eigenfunctions</b>, Anoop T. V., Ashok Kumar K., and S. Kesavan, <i>Journal of Differential Equations (2021)</i>, 430–462. 
 [Download Paper](https://doi.org/10.1016/j.jde.2021.07.001).
-13. <b>On the generalized Hardy-Rellich inequalities</b>, Anoop T. V. Ujjal Das, and Abhishek Sarkar, <i>Proceedings of the Royal Society of Edinburgh. Section A. Mathematics (2020)</i>, 897–919. [Download Paper](https://doi.org/10.1017/prm.2018.128). 
+13. <b>On the generalized Hardy-Rellich inequalities</b>, Anoop T. V., Ujjal Das, and Abhishek Sarkar, <i>Proceedings of the Royal Society of Edinburgh. Section A. Mathematics (2020)</i>, 897–919. [Download Paper](https://doi.org/10.1017/prm.2018.128). 
 14. <b>On reverse Faber-Krahn inequalities</b>, Anoop T. V. and Ashok Kumar K., <i>Journal of Mathematical Analysis and Applications (2020)</i>, 20 pp. [Download Paper](https://doi.org/10.1016/j.jmaa.2019.123766).
 15. <b>Neumann eigenvalue problems on the exterior domains</b>, Anoop T. V. and Nirjan Biswas, <i>Nonlinear Analysis. Theory, Methods & Applications (2019)</i>, 339–351. [Download Paper](https://doi.org/10.1016/j.na.2019.05.004).
-
+16. <b>On the strict monotonicity of the first eigenvalue of the p-Laplacian on annuli</b>, Anoop T. V., Vladimir Bobkov, and Sarath Sasi, <i>Transactions of the American Mathematical Society (2018)</i>, 7181–7199. [Download Paper](https://doi.org/10.1090/tran/7241). 
+17. <b>On the structure of the second eigenfunctions of the p-Laplacian on a ball</b>, Anoop T. V., Pavel Drábek, and Sarath Sasi, <i>Proceedings of the American Mathematical Society (2016)</i>, 2503–2512. [Download Paper](https://doi.org/10.1090/proc/12902).
+18. <b>Antimaximum principle in exterior domains</b>, Anoop T. V., Pavel Drábek, Lakshmi Sankar, and Sarath Sasi, <i>Nonlinear Analysis. Theory, Methods & Applications (2016)</i>, 241-254. [Download Paper](https://doi.org/10.1016/j.na.2015.10.010).
+19. <b>Weighted quasilinear eigenvalue problems in exterior domains</b>, Anoop T. V., Pavel Drábek, and Sarath Sasi, <i>Calculus of Variations and Partial Differential Equations (2015)</i>, 961–975. [Download Paper](https://doi.org/10.1007/s00526-014-0773-2).
+20. <b>A note on generalized Hardy-Sobolev inequalities</b>, Anoop T. V., <i>International Journal of Analysis (2013)</i>, 9 pp. [Download Paper](https://doi.org/10.1155/2013/784398).
+21. <b>Weighted eigenvalue problems for the p-Laplacian with weights in weak Lebesgue spaces</b>, Anoop T. V., <i>Electronic Journal of Differential Equations (2011)</i>, 22 pp. [Download Paper](https://ejde.math.txstate.edu/Volumes/2011/64/anoop.pdf).
+22. <b>A positive solution branch for nonlinear eigenvalue problems in R^N</b>, Anoop T. V. and Jagmohan Tyagi, <i>Nonlinear Analysis. Theory, Methods & Applications (2011)</i>, 2191–2200. [Download Paper](https://doi.org/10.1016/j.na.2010.11.023).
+23. <b>Eigenvalue problems with weights in Lorentz spaces</b>, Anoop T. V., Marcello Lucia, and Mythily Ramaswamy, <i>Calculus of Variations and Partial Differential Equations (2009)</i>, 355–376. [Download Paper](https://doi.org/10.1007/s00526-009-0232-7).
      
+<h3>Preprints (In reverse chronological order)</h3>
+
+1. <b>Reverse Faber-Krahn inequalities for the Logarithmic potential operator</b>, Anoop T. V. and Jiya Rose Johnson. [ArXiv](https://arxiv.org/abs/2501.13569).
+
+2. <b>Neumann domains of planar analytic eigenfunctions</b>, Anoop T. V.,  Vladimir Bobkov, and Mrityunjoy Ghosh. [ArXiv](https://arxiv.org/abs/2410.07811).
 
 
+<h3>Thesis</h3>
 
+<b>On weighted eigenvalue problems and applications</b>, 2011. [Download Thesis](http://www.hbni.ac.in/phdthesis/math/MATH10200604011.pdf).
 
