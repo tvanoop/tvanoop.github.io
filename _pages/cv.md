@@ -10,15 +10,10 @@ redirect_from:
 {% include base_path %}
 
 <h2>Work experience</h2> 
-* Academic Pages Collaborator
+* Collaborators
   * 
   * 
   * 
-
-* Fall 2015: Research Assistant
-  * 
-  * 
-  *
   
 <h2>Skills</h2> 
 * Skill 1
