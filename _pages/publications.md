@@ -1,12 +1,10 @@
 ---
-permalink: /
-layout: archive
-title: "Publications"
 permalink: /publications/
+title: "Publications"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /publications/
+  - /publications.html
 ---
 <h3>Journals</h3>
 23. Abhrojyoti Sen and <b>Anupam Sen </b>, "[Existence of global entropy solution for Eulerian droplet models and two-phase flow model with non
