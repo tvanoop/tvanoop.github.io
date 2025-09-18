@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<h3>Journals (In reverse chronological order)</h3>
+<h3>style="background-color:CornflowerBlue;">Journals (In reverse chronological order)</h3>
 1. <b> Reverse Faber-Krahn and Szegő-Weinberger type inequalities for annular domains under Robin-Neumann boundary conditions </b>, Anoop T. V., Vladimir Bobkov, and Pavel Drábek, <i>Journal of Differential Equations (2025)</i>, 40 pp. [Download Paper](https://doi.org/10.1016/j.jde.2025.113354). 
 2. <b> On fractional Orlicz-Hardy inequalities </b>, Anoop T. V., Prosenjit Roy, and Subhajit Roy, <i> Journal of Mathematical Analysis and Applications (2025)</i>, 29 pp.
 [Download Paper](https://doi.org/10.1016/j.jmaa.2024.128980).
