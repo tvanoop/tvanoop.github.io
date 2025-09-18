@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<h1>style="background-color:CornflowerBlue;">Journals (In reverse chronological order)</h1>
+<h2>Journals (In reverse chronological order)</h2>
 1. <b> Reverse Faber-Krahn and Szegő-Weinberger type inequalities for annular domains under Robin-Neumann boundary conditions </b>, Anoop T. V., Vladimir Bobkov, and Pavel Drábek, <i>Journal of Differential Equations (2025)</i>, 40 pp. [Download Paper](https://doi.org/10.1016/j.jde.2025.113354). 
 2. <b> On fractional Orlicz-Hardy inequalities </b>, Anoop T. V., Prosenjit Roy, and Subhajit Roy, <i> Journal of Mathematical Analysis and Applications (2025)</i>, 29 pp.
 [Download Paper](https://doi.org/10.1016/j.jmaa.2024.128980).
@@ -32,14 +32,14 @@ author_profile: true
 22. <b>A positive solution branch for nonlinear eigenvalue problems in R^N</b>, Anoop T. V. and Jagmohan Tyagi, <i>Nonlinear Analysis. Theory, Methods & Applications (2011)</i>, 2191–2200. [Download Paper](https://doi.org/10.1016/j.na.2010.11.023).
 23. <b>Eigenvalue problems with weights in Lorentz spaces</b>, Anoop T. V., Marcello Lucia, and Mythily Ramaswamy, <i>Calculus of Variations and Partial Differential Equations (2009)</i>, 355–376. [Download Paper](https://doi.org/10.1007/s00526-009-0232-7).
      
-<h3>Preprints (In reverse chronological order)</h3>
+<h2>Preprints (In reverse chronological order)</h2>
 
 1. <b>Reverse Faber-Krahn inequalities for the Logarithmic potential operator</b>, Anoop T. V. and Jiya Rose Johnson. [ArXiv](https://arxiv.org/abs/2501.13569).
 
 2. <b>Neumann domains of planar analytic eigenfunctions</b>, Anoop T. V.,  Vladimir Bobkov, and Mrityunjoy Ghosh. [ArXiv](https://arxiv.org/abs/2410.07811).
 
 
-<h3>Thesis</h3>
+<h2>Thesis</h2>
 
 <b>On weighted eigenvalue problems and applications</b>, 2011. [Download Thesis](http://www.hbni.ac.in/phdthesis/math/MATH10200604011.pdf).
 
