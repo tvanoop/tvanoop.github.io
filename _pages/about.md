@@ -19,6 +19,3 @@ Research Interests
 Linear and Nonlinear PDEs, Isoperimetric inequalities, Estimates of eigenvalues in the context of PDEs, Weighted Sobolev inequalities.
 
 
-Academic Background
-======
-
