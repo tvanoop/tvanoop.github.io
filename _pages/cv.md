@@ -10,16 +10,8 @@ redirect_from:
 {% include base_path %}
 
 <h2>Work experience</h2> 
-* Collaborators
-  * 
-  * 
-  * 
+To be updated.
   
 <h2>Skills</h2> 
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+To be updated.
 
