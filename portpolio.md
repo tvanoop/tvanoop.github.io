@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Academic Visits"
-permalink: /academicvisits/
+title: "abcd"
+permalink: /abcd/
 author_profile: true
 ---
 
