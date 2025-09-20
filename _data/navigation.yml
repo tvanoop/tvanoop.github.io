@@ -20,6 +20,10 @@ main:
   - title: "Academic Works"
     url: /academic/ 
 
+  - title: "Phd Students"
+    url: /students/
+
+    
   #- title: "Academic Activities"
   #  url: /markdown/
     
