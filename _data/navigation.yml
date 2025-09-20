@@ -17,6 +17,9 @@ main:
   - title: "Teaching"
     url: /teaching/    
 
+  - title: "Academic Works"
+    url: /academic/ 
+
   #- title: "Academic Activities"
   #  url: /markdown/
     
