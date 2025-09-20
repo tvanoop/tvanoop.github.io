@@ -19,12 +19,14 @@ main:
         
   - title: "PhD Students and Postdocs Supervision"
     url: /year-archive/
+
+  - title: "Academic Activities"
+    url: /markdown/
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Academic Activities"
-    url: /markdown/
+  
