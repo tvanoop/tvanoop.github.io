@@ -16,9 +16,6 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-        
-  - title: "PhD Students and Postdocs Supervision"
-    url: /year-archive/
 
   - title: "Academic Activities"
     url: /markdown/
@@ -28,5 +25,8 @@ main:
     
   # - title: "CV"
   #   url: /cv-json/
+
+  # - title: "PhD Students and Postdocs Supervision"
+  #  url: /year-archive/
     
   
