@@ -8,13 +8,12 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "default" # Currently available options are "default", "air"
 title                    : ""
 title_separator          : "-"
 name                     : &name "Anoop T. V."
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+description              : &description "personal description"
+url                      : https://tvanoop.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -25,39 +24,36 @@ author:
   # Biographic information
   avatar           : "anooptv.png"
   name             : "Anoop T. V."
-  pronouns         : #NA  
+  pronouns         : # Username 
   bio              : "Associate Professor"
   employer         : "IIT Madras"
   location         : "Chennai, India"
-  uri              : # URL
+  uri              : #NA
   email            : "anoop.tv@gmail.com" 
 
   # Academic websites
-  academia         : # URL
+  Official : "https://math.iitm.ac.in/innerfaculty.php?fname=Anoop%20T%20V&__ncforminfo=EWXADDAMX1vgSUvCIOLUw6dF3w5v4q9VReOco5yNrX_J0wsRl3BDkfrZtidXZLMytaLtTwpq_4-BrL63jWmMw3Zoczh4wQcr"
   arxiv            : "https://arxiv.org/search/?searchtype=author&query=Anoop%2C+T+V"
   googlescholar    : "https://scholar.google.com/citations?user=e7FwDXQAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-2470-9140"
   semantic         : # URL
-  ssrn             : # URL
-  pubmed           : # URL
+  pubmed           : #URL
   researchgate     : "https://www.researchgate.net/profile/Anoop-T-V"
   scopus           : # URL
-  zotero           : # URL
-
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : # Username
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -92,7 +88,7 @@ publication_category:
     title: 'Conference Papers'
 
 # Site Settings
-teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
+teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -227,12 +223,16 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  academic:
     output: true
     permalink: /:collection/:path/
-  talks:
+  cv:
     output: true
     permalink: /:collection/:path/
+  students:
+    output: true
+    permalink: /:collection/:path/
+  
 
 
 # These settings control how pages and collections are included in the site
@@ -273,15 +273,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
   # _talks
   - scope:
       path: ""
@@ -295,14 +286,14 @@ defaults:
 # Sass/SCSS
 sass:
   sass_dir: _sass
-  style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 
 # Outputting
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Etc/UTC # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Etc/UTC # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
@@ -354,7 +345,7 @@ tag_archive:
 
 
 # HTML Compression
-# - https://jch.penibelst.de/
+# - http://jch.penibelst.de/
 compress_html:
   clippings: all
   ignore:
